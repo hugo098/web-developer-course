@@ -47,13 +47,14 @@ p {
 
 .card{
   background-color: grey;
-  margin: .25em 1.5em 1.5em .25em;
+  margin: 1.8em 1.5em 1.8em 1.5em;
   border: 1px solid black
 }
 
 /* Simple Responsive Framework. */
 .row {
-  width: 100%;  
+  width: 100%;
+
 }
 
 
